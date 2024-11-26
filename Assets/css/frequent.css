@@ -1,0 +1,10 @@
+.question{
+    background-image: url(../images/confident-doctor-hospital-room.jpg);
+    width: 100%;
+    background-size: cover;
+    height: 45rem;
+    background-position: center;
+    text-align: start;
+    padding-top: 30rem;
+    margin-bottom: 30PX;
+}
